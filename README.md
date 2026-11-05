@@ -197,7 +197,7 @@ Subnet Mask: 255.255.255.0
 Gateway:     10.0.0.1
 DNS Server:  8.8.8.8
 ```
-
+![](Kali-linux-Network-Configuration.png)
 Using a consistent IP address will make it easier for me to identify my Kali Linux machine, document network activities, and connect additional virtual machines during future lab exercises.
 
 

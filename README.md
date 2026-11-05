@@ -74,3 +74,32 @@ This cybersecurity lab is strictly for educational purposes, hands-on learning, 
 I will only perform security assessments on systems and networks that I own or have been given permission to test. My goal is to develop responsible cybersecurity practices while improving my ability to identify, analyze, and address security risks.
 
 ---
+
+
+## 🏗️ Lab Architecture
+
+![Oracle VirtualBox Lab Setup](VirtualBox-7.0.jpg)
+
+Additional target machines can be added to the same virtual network in future projects.
+
+---
+
+## ⚙️ Lab Configuration
+
+| 🧩 Component       | ⚙️ Configuration   |
+| ------------------ | ------------------ |
+| 🖥️ Host OS         | Windows 10         |
+| 🧠 Host RAM        | 8 GB               |
+| ⚡ Processor       | Intel Core i7      |
+| 🧰 Hypervisor      | VirtualBox 7.2     |
+| 🐉 Security OS     | Kali Linux 2026.2  |
+| 🧠 Kali RAM        | 2048 MB            |
+| 🌐 Virtual Network | NAT Network        |
+| 📡 Network Address | 10.0.0.0/24        |
+| 🐧 Kali IP Address | 10.0.0.2/24        |
+| 🚪 Default Gateway | 10.0.0.1           |
+| 🌍 DNS Server      | 8.8.8.8            |
+| 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
+
+---
+

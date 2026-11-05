@@ -86,7 +86,7 @@ This experience will help me strengthen my practical knowledge of **virtualizati
 Most importantly, it provides a foundation for building the technical skills and confidence needed to handle real-world cybersecurity challenges.
 
 ## 🏗️ Lab Architecture
-
+Lab Architecture.jpg
 
 Additional target machines can be added to the same virtual network in future projects.
 

@@ -139,7 +139,7 @@ I configured the network using the following settings:
 - **IPv4 Prefix:** 10.0.0.0/24
 - **DHCP:** Enabled
 - **IPv6:** Disabled
-  
+![](NAT-Configuration.png)
 
 I selected the NAT Network option because it allows multiple virtual machines connected to the same network to communicate with one another while also providing outbound internet connectivity.
 

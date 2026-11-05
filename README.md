@@ -1,8 +1,6 @@
-#    
-<div align="center">
-
-# 🔐 Cybersecurity Internship – B084
+#    # 🔐 Cybersecurity Internship – B084
 ## Week 1: Lab Setup and Configuration
+<div align="center">
 
 **Building an Isolated Virtual Lab for Penetration Testing and Ethical Hacking Practice**
 

@@ -175,7 +175,7 @@ I also allocated the following memory to my Kali Linux virtual machine:
 RAM: 2048 MB
 ```
 
-![Kali Linux Virtual Machine Setup](3-screenshot-kali-linux.png)
+![](Kali-linux-Screenshot.png)
 
 To make file transfers easier, I configured a shared folder between my Windows host computer and the Kali Linux virtual machine.
 

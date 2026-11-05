@@ -75,10 +75,9 @@ I will only perform security assessments on systems and networks that I own or h
 
 ---
 
-
 ## 🏗️ Lab Architecture
 
-![Oracle VirtualBox Lab Setup](VirtualBox-7.0.jpg)
+![](Oracle VirtualBox Lab SetupVirtualBox-7.0.jpg)
 
 Additional target machines can be added to the same virtual network in future projects.
 

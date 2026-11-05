@@ -199,7 +199,8 @@ DNS Server:  8.8.8.8
 ```
 
 Using a consistent IP address will make it easier for me to identify my Kali Linux machine, document network activities, and connect additional virtual machines during future lab exercises.
-![](Kali-linux-Network-Configuration.png).
+
+
 
 ---
 

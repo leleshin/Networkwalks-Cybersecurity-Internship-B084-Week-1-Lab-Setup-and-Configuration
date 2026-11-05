@@ -16,8 +16,10 @@
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
+ 
 </p>
-------------------------
+---
+
 📌 Project Overview
 As part of my cybersecurity internship, I worked on setting up a virtual cybersecurity lab using Oracle VirtualBox and Kali Linux. The goal of this project is to build a safe and practical environment where I can develop my cybersecurity skills through hands-on exercises.
 This lab allows me to practice network scanning, information gathering, vulnerability assessment, and other security testing activities without affecting real-world systems.

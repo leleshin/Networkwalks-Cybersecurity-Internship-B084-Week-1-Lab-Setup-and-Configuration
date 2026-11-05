@@ -1,4 +1,4 @@
-# # 🔐Cybersecurity-Internship-B084-Week-1-Cybersecurity-Lab-Setup-and-Configuration
+# #        🔐Cybersecurity-Internship-B084-Week-1-Lab-Setup-and-Configuration
                  VirtualBox and Kali Linux Installation and Configuration
 <div align="center">
 </div>

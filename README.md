@@ -76,6 +76,7 @@ I will only perform security assessments on systems and networks that I own or h
 ---
 
 ## 🏗️ Lab Architecture
+![](NAT-Configuration.png)
 
 Additional target machines can be added to the same virtual network in future projects.
 

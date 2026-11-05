@@ -140,6 +140,7 @@ I configured the network using the following settings:
 - **DHCP:** Enabled
 - **IPv6:** Disabled
   
+** Virtualbox NAT Manager Screenhoot
 ![](NAT-Configuration.png)
 
 I selected the NAT Network option because it allows multiple virtual machines connected to the same network to communicate with one another while also providing outbound internet connectivity.
